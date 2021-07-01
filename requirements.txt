@@ -1,0 +1,8 @@
+matplotlib==3.4.2
+statsmodels==0.12.2
+numpy==1.21.0
+pandas==1.2.5
+nltk==3.6.2
+streamlit==0.83.0
+pytrends==4.7.3
+scikit_learn==0.24.2
