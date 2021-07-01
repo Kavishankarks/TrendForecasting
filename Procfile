@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Imdb.py
+web: sh setup.sh && streamlit run Forecasting_trend.py
